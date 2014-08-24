@@ -9,10 +9,10 @@ data set grouped on Activity and Subject.
 
 This directory includes 4 files:
 
-1) run_analysis.R
-2) run_Analysis_TidyData_CodeBook.txt
-3) New_Names.txt
-4) README.md
+1) run_analysis.R 
+2) run_Analysis_TidyData_CodeBook.txt 
+3) New_Names.txt 
+4) README.md 
 
 Description of each of the files is provided below:
 
