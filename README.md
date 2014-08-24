@@ -16,7 +16,7 @@ This directory includes 4 files:
 
 Description of each of the files is provided below:
 
-1. On sourcing and running run_analysis.R the script will use data from the files(described below) and merges and transforms it to a single tody data set in the form of an output file of name TidyData.txt  
+1. On sourcing and running run_analysis.R the script will use data from the files(described below) and merges and transforms it to a single tidy data set in the form of an output file of name TidyData.txt  
 This script will generate a output file as described below:
 	a. TidyData.txt - This is a tab separated text file that will have final output from the source dataset with averages of means and standard deviations based on Activity and Subject
 
