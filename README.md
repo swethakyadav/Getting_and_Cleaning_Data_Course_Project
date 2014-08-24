@@ -25,15 +25,25 @@ This script will generate a output file as described below:
 	a. TidyData.txt - This is a tab separated text file that will have final output from the source dataset with averages of means and standard deviations based on Activity and Subject
 
 This script assumes all relevent data files are placed in the working directory along with the New_Names.txt file. Below is the list of files required.
+
 	a. activity_labels.txt
+	
 	b. features.txt
+	
 	c. New_Names.txt
+	
 	d. subject_test.txt
+	
 	e. subject_train.txt
+	
 	f. X_test.txt
+	
 	g. X_train.txt
+	
 	h. y_test.txt
+	
 	i.  y_train.txt
+	
 
 2) run_Analysis_TidyData_CodeBook will provide the details of all variables for TidyData.txt (See a. above)
 
