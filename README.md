@@ -9,14 +9,14 @@ data set grouped on Activity and Subject.
 
 This directory includes 4 files:
 
-1. run_analysis.R
-2. run_Analysis_TidyData_CodeBook.txt
-3. New_Names.txt
-4. README.md
+1) run_analysis.R
+2) run_Analysis_TidyData_CodeBook.txt
+3) New_Names.txt
+4) README.md
 
 Description of each of the files is provided below:
 
-1. On sourcing and running run_analysis.R the script will use data from the files(described below) and merges and transforms it to a single tidy data set in the form of an output file of name TidyData.txt  
+1) On sourcing and running run_analysis.R the script will use data from the files(described below) and merges and transforms it to a single tidy data set in the form of an output file of name TidyData.txt  
 This script will generate a output file as described below:
 	a. TidyData.txt - This is a tab separated text file that will have final output from the source dataset with averages of means and standard deviations based on Activity and Subject
 
@@ -31,8 +31,8 @@ This script assumes all relevent data files are placed in the working directory 
 	h. y_test.txt
 	i.  y_train.txt
 
-2. run_Analysis_TidyData_CodeBook will provide the details of all variables for TidyData.txt (See a. above)
+2) run_Analysis_TidyData_CodeBook will provide the details of all variables for TidyData.txt (See a. above)
 
-3. File with a list of column names that are desciptive label names. This file needs to be present in the working directory.
+3) File with a list of column names that are desciptive label names. This file needs to be present in the working directory.
 
-4. Current Readme file
+4) Current Readme file
